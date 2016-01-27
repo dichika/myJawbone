@@ -1,6 +1,6 @@
 # myJawbone
 
-Jawbone APIからデータを取得するパッケージです。
+Jawbone APIからデータを取得するRパッケージです。
 自分の用途に必要な分（＋要望）にしか実装するつもりが無いのでmyFitbitとしています。
 
 ## Example
