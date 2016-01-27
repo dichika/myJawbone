@@ -2,7 +2,9 @@ Package: myJawbone
 Type: Package
 Title: Get your data through Jawbone API.
 Version: 0.1.0
-Authors@R:  Tokorosawa Yoshio
+Authors: Tokorosawa Yoshio
 Description: Get your data through Jawbone API.
 License: MIT
-Imports: httr,jsonlite
+Imports:
+    httr,jsonlite
+RoxygenNote: 5.0.1
